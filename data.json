@@ -1,0 +1,40 @@
+{
+  "name": "Roberto Andrés Terán Flores",
+  "intro": "Economist and researcher specializing in macroeconomic and financial analysis, data modeling, economic projections, and process automation.",
+  "about": "Economista con experiencia en análisis macroeconómico, automatización de bases de datos y desarrollo de modelos econométricos aplicados.",
+
+  "contact": {
+    "email": "andreteranfleurs@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/robert0andrestf",
+    "github": "https://github.com/"
+  },
+
+  "works": {
+    "sale": [
+      { "name": "Curso de Econometría", "file": "assets/curso.pdf" }
+    ],
+    "data": [
+      { "name": "Análisis de Exportaciones Bolivia", "file": "assets/data.xlsx" }
+    ],
+    "research": [
+      { "name": "Modelo de Inflación", "file": "assets/investigacion.pdf" }
+    ]
+  },
+  "papers": [
+    {
+      "authors": "Bolivar, O., Huanto, C. & Teran, R.",
+      "year": 2023,
+      "title": "Inflation Expectations: Dynamics and Effects for South America",
+      "journal": "Bolivian Economic Research Papers",
+      "volume": "6(1)",
+      "pages": "3-24",
+      "url": "https://ideas.repec.org/a/efp/journl/v6y2023i1p3-24.html"
+    }
+  ],
+  "papers_next": [
+    "Macroeconomics coming soon",
+    "Risks coming soon",
+    "Consumption coming soon",
+    "Education coming soon"
+  ]
+}
